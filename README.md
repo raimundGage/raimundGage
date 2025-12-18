@@ -15,6 +15,8 @@ I'm currently learning...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+![Mini Wolf Spinning](https://tenor.com/view/mini-wolf-minixwolf-spinning-gif-17664983211295413121.gif)
+
 <!--
 **raimundGage/raimundGage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
